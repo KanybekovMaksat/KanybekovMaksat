@@ -3,7 +3,5 @@
 # 🏆 GitHub Stats
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanybekovMaksat&theme=radical" /> </p> <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=KanybekovMaksat&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KanybekovMaksat&theme=monokai&hide_border=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

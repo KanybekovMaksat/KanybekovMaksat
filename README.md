@@ -48,4 +48,6 @@
   </a>
 </div>
 
+🏆 GitHub Profile Summary
+<p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ma1abakiev&theme=radical" /> </p>
 

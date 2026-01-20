@@ -48,6 +48,7 @@
   </a>
 </div>
 
-🏆 GitHub Profile Summary
+🏆 GitHub Stats
 <p align="left"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KanybekovMaksat&theme=dark" /> </p>
 
+<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=KanybekovMaksat&show_icons=true&theme=dark" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanybekovMaksat&layout=compact&theme=dark" /> </p>
